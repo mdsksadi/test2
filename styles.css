@@ -1,0 +1,16 @@
+/* Café palette */
+:root {
+	--color-espresso: #2f211b;
+	--color-coffee: #6f4e37;
+	--color-caramel: #b97945;
+	--color-cream: #f7f0e6;
+	--color-foam: #fffaf3;
+	--color-sage: #72806b;
+	--color-border: #dfd0bf;
+}
+
+body {
+	background-color: var(--color-cream);
+	color: var(--color-espresso);
+}
+
